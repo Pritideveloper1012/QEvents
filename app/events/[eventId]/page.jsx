@@ -1,4 +1,8 @@
+
 import Link from "next/link";
+
+
+
 
 const EventDetailsPage = async ({ params }) => {
   const { eventId } = params;
